@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Skincare-ecommerce/static/css/main.59460eae.css",
+    "main.js": "/Skincare-ecommerce/static/js/main.dd9c2ee8.js",
+    "static/media/4.jpg": "/Skincare-ecommerce/static/media/4.ca22ca29938f1d3b5997.jpg",
+    "static/media/2.jpg": "/Skincare-ecommerce/static/media/2.ba9a0af85795a6b07a45.jpg",
+    "static/media/3.jpg": "/Skincare-ecommerce/static/media/3.4c15d964da8464e670e4.jpg",
+    "static/media/1.jpg": "/Skincare-ecommerce/static/media/1.c2d402753a07ddac06b5.jpg",
+    "static/media/loginBg.png": "/Skincare-ecommerce/static/media/loginBg.8c12addcb077c9d2ab28.png",
+    "static/media/Hero_image.jpg": "/Skincare-ecommerce/static/media/Hero_image.0b36e884dadfccd2fea1.jpg",
+    "static/media/Comp2bg.jpg": "/Skincare-ecommerce/static/media/Comp2bg.4dbec914b971b61c501e.jpg",
+    "static/media/product2.jpg": "/Skincare-ecommerce/static/media/product2.f70ab3e770a4ee92ac54.jpg",
+    "static/media/product4.jpg": "/Skincare-ecommerce/static/media/product4.52a82b688f1ac7c411b3.jpg",
+    "static/media/product1.jpg": "/Skincare-ecommerce/static/media/product1.d0bef310619ac7edbd62.jpg",
+    "static/media/product3.jpg": "/Skincare-ecommerce/static/media/product3.4d0be757cb9604dbb92e.jpg",
+    "static/media/user.png": "/Skincare-ecommerce/static/media/user.b470a217f13ab696cb44.png",
+    "static/media/twitter.png": "/Skincare-ecommerce/static/media/twitter.37e88ae352032d5f8a75.png",
+    "static/media/icon1.png": "/Skincare-ecommerce/static/media/icon1.24afc6fa06a8436c9463.png",
+    "static/media/google.png": "/Skincare-ecommerce/static/media/google.d0b1d44e9bc9db48126b.png",
+    "static/media/apple.png": "/Skincare-ecommerce/static/media/apple.6641a2f9f3730bf57f18.png",
+    "static/media/icon2.png": "/Skincare-ecommerce/static/media/icon2.320b9d1d2a00cd9413fc.png",
+    "static/media/shopping-cart.png": "/Skincare-ecommerce/static/media/shopping-cart.c5aa61b0d8287817db79.png",
+    "static/media/instagram.png": "/Skincare-ecommerce/static/media/instagram.ac32ec0a111aeba03298.png",
+    "static/media/favourite.png": "/Skincare-ecommerce/static/media/favourite.40ce5d532097c3aac5db.png",
+    "static/media/facebook.png": "/Skincare-ecommerce/static/media/facebook.bfd1cfff9f9521198b26.png",
+    "static/media/tiktok.png": "/Skincare-ecommerce/static/media/tiktok.f61d62f01c2f347eec0e.png",
+    "static/media/linkedin.png": "/Skincare-ecommerce/static/media/linkedin.032cf8a63be2f0f4d425.png",
+    "static/media/no-results.png": "/Skincare-ecommerce/static/media/no-results.7c51ba8b0183ec345440.png",
+    "index.html": "/Skincare-ecommerce/index.html",
+    "main.59460eae.css.map": "/Skincare-ecommerce/static/css/main.59460eae.css.map",
+    "main.dd9c2ee8.js.map": "/Skincare-ecommerce/static/js/main.dd9c2ee8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59460eae.css",
+    "static/js/main.dd9c2ee8.js"
+  ]
+}
