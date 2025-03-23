@@ -1,0 +1,44 @@
+.comp2-body {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;  /* Center the inner container horizontally */
+    align-items: center;      /* Center the inner container vertically */
+    opacity: 0.85;
+}
+
+.comp2-inner {
+    background: rgba(0, 0, 0, 0.6);
+    padding: 40px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center; /* Center the left and right sections horizontally */
+    align-items: center;     /* Center the left and right sections vertically */
+    width: 70%;
+    height: 50%;
+    gap: 20%; /* Optional: adds space between the left and right sections */
+}
+
+/* Left & Right Sections */
+.comp2-left, .comp2-right {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; /* Center the content in both left and right sections */
+    padding: 0 20px; /* Adjusted padding for better space distribution */
+}
+
+.comp2-left img, .comp2-right img {
+    width: 130px;
+    height: auto;
+}
+
+.comp2-left p, .comp2-right p {
+    font-size: 15px;
+    color: white;
+    font-family: 'Libre Caslon Display';
+}

@@ -1,0 +1,73 @@
+.nav {
+    background-color: #122810;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+    height: 12%;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+
+}
+
+ .nav ul {
+    list-style: none;
+    margin: 0 auto -5% auto;
+    padding: 0;
+    display: flex;
+    justify-content: space-evenly; 
+    align-items: center;
+    max-width: 1000px; 
+    width: 100%; 
+   
+}
+
+#logo {
+    margin: 0 -100px;
+    width: 350px;
+    height: auto;
+}
+
+
+
+.button {
+    text-decoration: none;
+    color: #4D2D18;
+    font-weight: 400;
+    border-radius: 25px;
+    background-color: #C8C29A;
+    transition: background-color 0.3s;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.4); 
+}
+
+.nav ul li a:hover {
+    background-color: #9e9563;
+    text-decoration-color: none;
+    text-decoration: none;
+    border-radius: 25px;
+}
+
+.nav ul li a:focus {
+    background-color: #9e9563;
+    border-radius: 25px;
+}
+.nav link{
+    text-decoration: none;
+    background-color: none;
+    
+}
+
+/* Green semicircle */
+.semicircle {
+    width: 250px; /* Adjust size */
+    height: 125px; /* Half of the width to create a semicircle */
+    background-color: #122810; /* Match navbar background */
+    border-radius: 0 0 250px 250px; /* Top corners rounded to form a semicircle */
+    position: absolute;
+    bottom: -70px; /* Moves it down onto the navbar */
+    left: 50%;
+    transform: translateX(-50%); /* Centers it horizontally */
+    z-index: -1000;
+    opacity: 0.25;
+}

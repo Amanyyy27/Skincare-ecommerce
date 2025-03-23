@@ -1,0 +1,58 @@
+.popular {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+    height: 90vh;
+
+}
+
+.popular h1 {
+    color: #DFC79A;
+    font-size: 50px;
+    font-weight: 100;
+    font-family: 'Libre Caslon Display';
+    margin-bottom: 10px;
+}
+
+.slider-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin-top: 30px;
+}
+
+.popular-items {
+    display: flex;
+    gap: 30px;
+    overflow: hidden;
+    width: 80%;
+    justify-content: center;
+}
+
+.prev-btn, .next-btn {
+    background-color: rgb(223, 199, 154,0);
+    border: none;
+    font-size: 35px;
+    padding: 10px 15px;
+    cursor: pointer;
+    color: white;
+    border-radius: 50%;
+    transition: 0.3s;
+    opacity: 0.3;
+    font-family: "Josefin Sans", sans-serif;
+}
+
+.prev-btn:hover, .next-btn:hover {
+    background-color: rgb(191, 161, 112,0.1);
+}
+
+.prev-btn {
+    margin-right: 10px;
+}
+
+.next-btn {
+    margin-left: 10px;
+}

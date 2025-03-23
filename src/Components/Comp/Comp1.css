@@ -1,0 +1,43 @@
+.comp1-body {
+    background-color: #DFC79A;
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+
+    padding: 40px;
+    gap: 30px; 
+    height: 90vh;
+}
+
+.comp1-left {
+    display: flex;
+    gap: 20px; 
+    padding-left: 80px;
+    padding-right: 20px;
+
+}
+
+.comp1-img1 img {
+    width: 200px; 
+    height: auto;
+    border-radius: 10px; 
+    margin-top: 40px;
+    
+}
+
+.comp1-img2 img {
+    width: 250px; 
+    height: auto;
+    border-radius: 10px;
+}
+
+.comp1-right {
+    max-width: 550px;
+    font-size: 24px;
+    font-weight: 350;
+    line-height: 1.5;
+    padding-right: 40px;
+    color: #2D221B;
+
+
+}
