@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Skincare-ecommerce/static/css/main.59460eae.css",
-    "main.js": "/Skincare-ecommerce/static/js/main.dd9c2ee8.js",
+    "main.js": "/Skincare-ecommerce/static/js/main.5cd023e4.js",
     "static/media/4.jpg": "/Skincare-ecommerce/static/media/4.ca22ca29938f1d3b5997.jpg",
     "static/media/2.jpg": "/Skincare-ecommerce/static/media/2.ba9a0af85795a6b07a45.jpg",
     "static/media/3.jpg": "/Skincare-ecommerce/static/media/3.4c15d964da8464e670e4.jpg",
@@ -28,10 +28,10 @@
     "static/media/no-results.png": "/Skincare-ecommerce/static/media/no-results.7c51ba8b0183ec345440.png",
     "index.html": "/Skincare-ecommerce/index.html",
     "main.59460eae.css.map": "/Skincare-ecommerce/static/css/main.59460eae.css.map",
-    "main.dd9c2ee8.js.map": "/Skincare-ecommerce/static/js/main.dd9c2ee8.js.map"
+    "main.5cd023e4.js.map": "/Skincare-ecommerce/static/js/main.5cd023e4.js.map"
   },
   "entrypoints": [
     "static/css/main.59460eae.css",
-    "static/js/main.dd9c2ee8.js"
+    "static/js/main.5cd023e4.js"
   ]
 }
